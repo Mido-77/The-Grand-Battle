@@ -1,0 +1,11 @@
+*First you need to have python. You can install python from:
+
+https://www.python.org/downloads/
+
+
+*Then you should have Pygame:
+
+https://www.youtube.com/watch?v=AdUZArA-kZw
+
+
+*Enjoy the game :)
